@@ -41,6 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 PROGRAM:
+```
 class VacuumCleanerAgent:
     def __init__(self):
          self.location = "A"  
@@ -84,3 +85,4 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
+```
