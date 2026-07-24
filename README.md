@@ -41,8 +41,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h3>Developed by SANJANA R </h3>
-<h3>Register Number 212223240148</h3>
+<h3>Developed by VIGNESH K</h3>
+<h3>Register Number 212225240183</h3>
 
 ## PROGRAM
 
