@@ -93,7 +93,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ## OUTPUT
-<img width="490" height="80" alt="image" src="https://github.com/user-attachments/assets/1061d035-3bb5-498d-b1a9-042230e8d2b2" />
+<img width="791" height="192" alt="image" src="https://github.com/user-attachments/assets/922bdb84-36de-4cef-91db-b4fa2058fbc0" />
 
 
 
